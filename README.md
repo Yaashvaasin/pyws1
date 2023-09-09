@@ -20,7 +20,6 @@ This is used to learn Git-based development
    M2 Mac
 
    # Time
-   2pm to 5pm
-
+   2pm to 3pm
 
  
