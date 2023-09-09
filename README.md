@@ -19,8 +19,9 @@ This is used to learn Git-based development
  1. Creating project
  2. Using pico
 
- #### Tentative
+ # Adittions
+    This was written on a Mac
+   M2 Mac
 
- 1. 9-11 am (Coding)
- 2. 11-12 pm (Lunch break)
- 3. 2-5 (Presentation)
+
+ 
